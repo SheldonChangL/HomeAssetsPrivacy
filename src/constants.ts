@@ -10,7 +10,7 @@ export const APP_NAME = "Home Asset Keeper";
  * The contact email address for privacy inquiries and data deletion requests.
  * Replace with your real address before going live.
  */
-export const CONTACT_EMAIL = "privacy@yourdomain.com";
+export const CONTACT_EMAIL = "sheldonlikescats@gmail.com";
 
 /** The date this policy was last reviewed and published. */
 export const LAST_UPDATED = "March 4, 2026";
